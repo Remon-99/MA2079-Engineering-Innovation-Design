@@ -20,6 +20,3 @@ Competition.
 
 <h2>Product Demonstration </h2>
 YouTube Demonstration : http://www.youtube.com/watch?v=l4_I7mDYV5I
-
-
-
