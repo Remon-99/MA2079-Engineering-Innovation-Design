@@ -19,5 +19,7 @@ Competition.
 - <b>Windows 10</b> (21H2)
 
 <h2>Product Demonstration </h2>
-[![YouTube Demonstration](http://img.youtube.com/vi/l4_I7mDYV5I/0.jpg)](http://www.youtube.com/watch?v=l4_I7mDYV5I)
+YouTube Demonstration : http://www.youtube.com/watch?v=l4_I7mDYV5I
+
+
 
